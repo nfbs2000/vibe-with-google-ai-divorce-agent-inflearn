@@ -1,0 +1,15 @@
+{
+  "case_id": "239243",
+  "filename": "239243_2022도699.md",
+  "case_type": "형사",
+  "fault_type": "명예훼손",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "이 사건은 위자료 청구 소송이 아니라, '배드파더스' 사이트 운영자들에 대한 명예훼손 형사 판결임. 양육비 미지급자 압박 목적(공익)보다 과도한 신상 공개로 인한 인격권 침해(비방 목적)가 더 크다고 보아 유죄가 확정됨.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "key_summary": "양육비를 주지 않는 '나쁜 아빠(Bad Fathers)'들의 사진과 직장 등을 공개해 양육비 지급을 촉구하던 사이트 운영자들이 명예훼손으로 기소된 사건입니다. 운영자들은 '양육비 미지급 해결이라는 공익을 위한 것'이라 주장하며 무죄를 호소했습니다. 하지만 대법원은 '양육비 문제는 공적 관심사지만, 얼굴과 직장명까지 공개한 것은 해결 수단을 넘어선 사적 제재에 가깝고, 피해자들에게 회복할 수 없는 피해를 입혀 비방의 목적이 인정된다'며 유죄를 선고했습니다. 공익과 사적 제재의 경계를 다룬 판례입니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

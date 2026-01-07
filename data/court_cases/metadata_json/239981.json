@@ -1,0 +1,15 @@
+{
+  "case_id": "239981",
+  "filename": "239981_2023구단11356.md",
+  "case_type": "행정",
+  "fault_type": "출국명령처분취소",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "외국인의 체류자격 취소 및 출국명령의 적법성을 다투는 행정 소송으로, 위자료 청구가 아님.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "key_summary": "우즈베키스탄 여성이 한국인과 결혼하여 영주권을 얻었으나 이혼 후 자국 남성과 재혼했습니다. 당국은 이를 위장결혼으로 보고 영주권을 취소하고 출국명령을 내렸습니다. 그러나 법원은 당국이 영주권 취소 사실을 '문서'로 통지하지 않고 구두로만 알린 것은 행정절차법 위반(절차적 하자)이라며, 영주권 취소와 출국명령 모두를 무효로 판결했습니다. 외국인의 권리 침해 소지가 큰 처분은 절차를 엄격히 지켜야 한다는 판례입니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": null
+}

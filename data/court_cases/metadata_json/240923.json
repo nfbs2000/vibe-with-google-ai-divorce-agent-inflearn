@@ -1,0 +1,14 @@
+{
+  "case_id": "240923",
+  "filename": "240923_2024스536.md",
+  "alimony_amount": 0,
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "fault_type": "가족관계등록부 정정 (북한이탈주민)",
+  "alimony_reason": "북한에서 유효하게 성립한 혼인관계 중 출생한 자녀임을 소명하면, 가족관계등록부에 혼인이 기록되지 않았더라도 가정법원의 허가를 받아 부의 출생연월일과 본 등을 정정할 수 있다는 판결.",
+  "key_summary": "북한이탈주민이 북한에서 사망한 부와의 친생자관계를 확인받은 후, 가족관계등록부상 부의 특정등록사항(본, 출생일 등)을 정정하려 한 사건. 대법원은 북한에서의 유효한 혼인관계를 소명하면 이를 허가해야 한다고 판단함.",
+  "case_type": "가사(등록부정정)",
+  "analysis_date": "2026-01-03",
+  "analysis_method": "manual_extraction_from_markdown",
+  "has_children": true
+}

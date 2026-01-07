@@ -1,0 +1,15 @@
+{
+  "case_id": "239975",
+  "filename": "239975_2023누53012.md",
+  "case_type": "행정",
+  "fault_type": "조합원지위확인",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "주택재개발조합의 조합원 지위(분양권)를 다투는 행정 소송으로, 위자료 청구가 아님.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "key_summary": "재개발 구역 내 토지를 할아버지로부터 증여받은 형제가 각각 아파트를 분양받기 위해 세대를 분리하고 소송을 제기했습니다. 도시정비법은 투기 방지를 위해 한 세대에 하나의 분양권만 인정하는데, 형제 측은 '20세 이상 자녀 분가' 예외 조항을 들어 독립된 지위를 주장했습니다. 그러나 법원은 이 예외 조항은 '부모와 자녀' 사이의 분가를 의미하는 것이지, '형제간'의 분가까지 포함하지 않는다며 형제에게 1개의 분양권(1인의 조합원 지위)만 인정했습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

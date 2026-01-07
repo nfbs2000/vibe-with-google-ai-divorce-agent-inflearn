@@ -1,0 +1,15 @@
+{
+  "case_id": "239819",
+  "filename": "239819_2022노3418.md",
+  "case_type": "형사",
+  "fault_type": "상해, 건조물침입",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "이혼 관련 분쟁이 전 배우자의 가족(동생)에게 번진 형사 사건임. 위자료가 아닌 형사 처벌(벌금 150만 원)이 선고됨.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "key_summary": "피고인이 이혼한 전 남편의 동생(변호사)을 찾아가 '내 딸이 당신 때문에 조울증에 걸렸다'며 사무실에 침입하고 얼굴을 때린 사건입니다. 이미 접근금지 가처분 결정이 있었음에도 이를 어기고 피해자의 변호사 사무실에 들어가 난동을 피워 상해 및 건조물침입 죄로 기소되었습니다. 법원은 첫 번째 방문은 로비에서 기다려 무죄로 보았으나, 두 번째 방문은 막무가내로 방에 들어가 폭행했으므로 유죄로 인정하여 벌금 150만 원을 선고했습니다. 이혼의 갈등이 부부를 넘어 친인척 간의 형사 사건으로 비화된 사례입니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

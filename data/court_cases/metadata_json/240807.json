@@ -1,0 +1,14 @@
+{
+  "case_id": "240807",
+  "filename": "240807_2020므15896.md",
+  "alimony_amount": 0,
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "fault_type": "혼인무효 (이혼 후 청구 가능)",
+  "alimony_reason": "기존 판례를 변경하여, 이혼으로 혼인관계가 해소된 이후에도 과거 혼인관계의 무효 확인을 구할 '확인의 이익'이 있다고 판결함. 무효 판결 시 인척 관계 소멸, 친족상도례 미적용, 가족관계등록부 정정 등 실익이 존재하기 때문.",
+  "key_summary": "전원합의체 판결. 이혼한 상태라도 과거의 혼인 자체를 무효로 돌릴 법률상 이익(확인의 이익)이 인정됨. 단순히 이혼했다는 사실만으로는 해소되지 않는 법률관계(친족관계, 형사책임 등)를 근본적으로 해결하기 위함.",
+  "case_type": "가사(혼인무효)",
+  "analysis_date": "2026-01-03",
+  "analysis_method": "manual_extraction_from_markdown",
+  "has_children": true
+}

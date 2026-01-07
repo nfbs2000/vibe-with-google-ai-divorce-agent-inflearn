@@ -1,0 +1,15 @@
+{
+  "case_id": "238897",
+  "filename": "238897_2023다265731.md",
+  "case_type": "민사",
+  "fault_type": "Unknown",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "남편이 집을 나가 상간녀와 40년간 동거하여 이미 부부 공동생활이 회복 불가능하게 파탄났으므로, 파탄 이후의 부정행위(동거)에 대해서는 불법행위 책임을 물을 수 없어 위자료를 기각함.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 40,
+  "key_summary": "1979년 남편이 상간녀와 살림을 차리고 집을 나간 뒤 40년이 흘렀습니다. 남편이 사망하자 본처와 자녀들(원고)은 상간녀와 혼외자(피고)를 상대로 '유언장을 은닉했으니 상속 자격이 없다'고 소송을 걸고, 상간녀에게는 위자료를 청구했습니다. 대법원은 유언장 은닉 주장을 받아들이지 않았을 뿐만 아니라, 위자료 청구도 기각했습니다. '비록 이혼은 안 했지만 40년간 남처럼 살았다면 이미 혼인은 파탄 난 것이고, 파탄 난 부부 관계를 침해할 권리조차 남아있지 않으므로 상간녀에게 위자료를 받을 수 없다'는 것이 이유였습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": null
+}

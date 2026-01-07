@@ -1,0 +1,15 @@
+{
+  "case_id": "242057",
+  "filename": "242057_2023르5563(본소), 2023르5570(반소).md",
+  "case_type": "가사",
+  "fault_type": "폭행, 경제적 억압, 아동학대",
+  "alimony_request_amount": 20000000,
+  "alimony_final_amount": 15000000,
+  "alimony_reason": "남편의 상습적인 폭언, 폭행(자동차 열쇠 상해 등) 및 경제적 통제가 인정됨. 아동학대 형사 처벌 전력도 고려됨.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 13,
+  "key_summary": "남편의 폭력과 경제적 억압을 견디다 못한 아내가 이혼을 청구한 사건입니다. 남편은 아동학대로 형사 처벌까지 받았습니다. 법원은 남편의 유책을 인정하여 위자료 1,500만 원을 지급하라고 판결했습니다. 특이사항으로 남편이 '친자가 아니니 양육비를 줄 수 없다'고 주장했으나, 법원은 과거 혼인 중 친생자로 출생신고를 한 행위가 '입양'의 효력을 가지므로 양부로서 양육비 지급 의무가 있다고 판시했습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

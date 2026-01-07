@@ -1,0 +1,15 @@
+{
+  "case_id": "238783",
+  "filename": "238783_2022두62284.md",
+  "case_type": "일반행정",
+  "fault_type": "Unknown",
+  "alimony_request_amount": 250000000,
+  "alimony_final_amount": 0,
+  "alimony_reason": "이혼 조정 당시 '나머지 청구를 포기한다'는 조항에 합의했으므로, 퇴직연금 분할 청구권도 포기한 것으로 간주함.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 25,
+  "key_summary": "공무원 남편(원고)과 아내(소외인)는 1993년 결혼해 25년을 살다가 이혼했습니다. 이혼 조정 당시 아내는 남편의 공무원 연금 액수를 정확히 파악한 뒤, 일부는 재산분할 계산에서 빼고 나머지만 계산에 넣어 아파트 절반을 받기로 합의하며 '나머지 청구는 포기한다'고 도장을 찍었습니다. 그런데 이혼 1년 뒤, 아내가 말을 바꿔 연금공단에 '내 몫의 연금을 달라'고 청구했고 공단이 이를 승인하자 남편이 격분해 소송을 걸었습니다. 대법원은 '조정 때 이미 연금을 다 따져보고 합의한 거라면, 추가 청구 포기 약속은 연금까지 포함한 것'이라며 남편의 손을 들어주었습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

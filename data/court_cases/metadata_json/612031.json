@@ -1,0 +1,15 @@
+{
+  "case_id": "612031",
+  "filename": "612031_2023드단51928.md",
+  "case_type": "가사",
+  "fault_type": "부정행위(상간)",
+  "alimony_request_amount": 20000000,
+  "alimony_final_amount": 20000000,
+  "alimony_reason": "피고(상간녀)가 유부남과 2000일 넘게('D+2034') 교제하며 파탄의 원인을 제공함. 원고가 청구한 2,000만 원 전액을 인용함.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 11,
+  "key_summary": "상간녀 소송의 1심 판결입니다(항소심은 612029). 피고는 유부남과 2016년부터 만나오며 카카오톡 프로필에 'D+2034'(사귄 지 2034일)라고 적어두는 등 장기간 부정행위를 지속했습니다. 원고(아내)는 남편과는 이미 위자료 2,000만 원에 합의했고, 상간녀에게 별도로 2,000만 원을 청구해 전액 승소했습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

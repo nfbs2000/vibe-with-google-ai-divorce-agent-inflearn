@@ -1,0 +1,14 @@
+{
+  "case_id": "239995",
+  "filename": "239995_2024터2.md",
+  "alimony_amount": 0,
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "fault_type": "가정폭력 (절차 위반/혐의 불분명)",
+  "alimony_reason": "가정폭력행위가 특정되지 않았고, 이를 인정할 구체적 증거가 부족함에도 보호명령을 유지한 것은 위법함. 또한 행위자에게 청구서 부본 송달 등 방어권을 보장하지 않은 절차적 위법이 있어 파기환송됨.",
+  "key_summary": "피해자보호명령 사건. 가정폭력범죄의 행위가 특정되지 않거나 인정되지 않는 경우 보호명령을 발령할 수 없으며, 심리 절차에서 행위자에게 사건 요지 고지 및 자료 제출 기회를 주지 않는 등 방어권을 침해한 경우 재판에 영향을 미친 법령 위반에 해당함.",
+  "case_type": "형사(피해자보호명령)",
+  "analysis_date": "2026-01-03",
+  "analysis_method": "manual_extraction_from_markdown",
+  "has_children": true
+}

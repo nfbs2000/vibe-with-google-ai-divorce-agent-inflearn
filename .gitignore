@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Testing
+/coverage
+# Next.js
+.next/
+/out/
+# Production
+/build
+# Misc
+.DS_Store
+*.pem
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Local env files
+.env*.local
+.env
+# Vercel
+.vercel
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+# Custom directories
+/anthropic-sdk-typescript
+agent/dist
+service-account-key.json
+creator-portal-v3/
+creator-portal/
+smishing-rag-api-main/
+__pycache__/
+*.py[cod]
+venv/
+*/venv/
+#ai-pishing-frontend/
+.venv/
+
+# Playwright test results
+ai-pishing-frontend/test-results/*
+ai-pishing-frontend/playwright-report/*
+
+# Large data files (>100MB)
+data/alyac_family/*.json
+data/audio/*.mp3
+data/audio/*.wav
+
+# File Search upload history (contains file paths and hashes)
+logs/file_search_history.json
+logs/infra_file_search_history.json
+data/audio/*.m4a
+
+# Keep schema files
+!data/alyac_family/*_schema.json
+.claude/tsc-cache/
+logs/*data/adk-docs/
+.pids/
+
+# Generated media files from course skills (exclude only media files)
+*.mp4
+*.mp3
+*.log
+
+# Claude Code settings and skills
+.claude/
+.trae/
+

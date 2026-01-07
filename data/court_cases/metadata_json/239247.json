@@ -1,0 +1,15 @@
+{
+  "case_id": "239247",
+  "filename": "239247_2021도5723.md",
+  "case_type": "형사",
+  "fault_type": "마약류관리법위반",
+  "alimony_request_amount": 0,
+  "alimony_final_amount": 0,
+  "alimony_reason": "마약 사범의 휴대전화 몰수가 비례의 원칙에 위배되는지를 다룬 형사 사건으로, 위자료 청구와는 무관함.",
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "key_summary": "마약 투약 혐의로 기소된 피고인의 휴대전화를 몰수할 것인가가 쟁점이 된 사건입니다. 하급심은 피고인이 마약 거래 연락에 휴대전화를 사용했다며 몰수를 선고했습니다. 그러나 대법원은 '휴대전화는 현대인의 모든 사생활과 정보가 담긴 필수품'이라며, 단순히 연락 몇 번에 썼다는 이유만으로 기계 자체를 몰수하는 것은 범죄와의 관련성에 비해 피고인이 입는 피해가 너무 크다(비례의 원칙 위반)고 판단하여 몰수 명령을 파기했습니다.",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "narrative_extraction_v2",
+  "has_children": true
+}

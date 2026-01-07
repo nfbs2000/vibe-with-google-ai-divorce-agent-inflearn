@@ -1,0 +1,13 @@
+{
+  "case_id": "599613",
+  "filename": "599613_2023도13019.md",
+  "alimony_amount": 0,
+  "property_ratio_plaintiff": 0.0,
+  "marriage_duration_years": 0,
+  "fault_type": "Unknown",
+  "key_summary": "거주자 승낙을 받았으나 범죄목적 출입으로 건조물침입죄 성립 여부에 관한 대법원 판례",
+  "case_type": "형사",
+  "analysis_date": "2026-01-01",
+  "analysis_method": "claude_direct_analysis",
+  "has_children": true
+}
